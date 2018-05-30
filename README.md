@@ -1,0 +1,2 @@
+# react-secondthought
+We're creating a simple app to allow iOS &amp; Android users that allows the starting and stopping of audio recording while famous quotes loop in the background. Users should be able to hit record which would record audio to their device as well as upload the audio to our AWS S3 bucket. It is important that this app be developed with React Native because we want to deploy to our student group for testing on either iOS or Android devices.

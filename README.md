@@ -1,5 +1,7 @@
 # React Natively
 
+Projects that use React Native to tell the story of humanity. Here we'll capture how humans interact with each other using technology.
+
 ## SecondThought
 We're creating a simple app to allow iOS &amp; Android users that allows the starting and stopping of audio recording while famous quotes loop in the background.
 

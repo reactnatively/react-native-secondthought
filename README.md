@@ -34,3 +34,13 @@ _PLEASE NOTE: It is important that this app be developed with React Native becau
 |altitude|150|Altitude of user when post occurs|
 |author|83838383|User ID of the user authoring object|
 |audience|33333333|User ID of the user who is audience to this object|
+
+## Other requirements and key considerations
+
+This is 1 of 4 React Natively mini projects that are meant to be stand alone apps that run on both iOS and Android. They may also be submitted to their respective mobile app stores - in some form - in the near future.
+
+- iOS (Device preference: iPhone 6 and above)
+- Android (OS: Latest OS or next the latest)
+- React Native (v0.56)
+
+What's expected is 4 separate, independent code bundles that successfully build Android and iOS binaries. All dependencies must be clearly identified.

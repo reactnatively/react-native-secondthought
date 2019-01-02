@@ -45,6 +45,8 @@ This is 1 of 4 React Natively mini projects that are meant to be stand alone app
 
 - iOS (Device preference: iPhone 6 and above)
 - Android (OS: Latest OS or next the latest)
-- React Native (v0.56)
+- React Native (v0.56+)
+- React Native Navigation
+- DO NOT USE Realm
 
 What's expected is 4 separate, independent code bundles that successfully build Android and iOS binaries. All dependencies must be clearly identified.

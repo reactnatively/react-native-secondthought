@@ -17,6 +17,8 @@ _PLEASE NOTE: It is important that this app be developed with React Native becau
 |User login|<img src="https://github.com/reactnatively/react-secondthought/blob/master/secondthought-login.png" width="150">|Medium|
 |User not recording|<img src="https://github.com/reactnatively/react-secondthought/blob/master/secondthought-home-notrecording.png" width="150">|Critical|
 |User currently recording|<img src="https://github.com/reactnatively/react-secondthought/blob/master/secondthought-home-recording.png" width="150">|Critical|
+|Audio Files List|<img src="https://github.com/reactnatively/react-secondthought/blob/master/secondthought-files.png" width="150">|Critical|
+|Audio File|<img src="https://github.com/reactnatively/react-secondthought/blob/master/secondthought-file.png" width="150">|Critical|
 
 ## React Natively API
 * URL: http://api.reactnatively.venny.co/v1/

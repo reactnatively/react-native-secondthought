@@ -7,6 +7,7 @@ We're creating a simple app to allow iOS &amp; Android users that allows the sta
 
 Updates needed:
 |Update needed|Notes|Online resource if available|
+|-|-|-|
 |User, during onboarding, must choose be able to choose language & gender of voice playback.|Like a playlist||
 |User must continue onboarding before beginning the core app experience.|Asyncstorage||
 |User must see well-formed date format when reviewing their previously recorded audio.|||

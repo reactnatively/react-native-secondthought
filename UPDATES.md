@@ -2,10 +2,9 @@
 
 Projects that use React Native to tell the story of humanity. Here we'll capture how humans interact with each other using technology.
 
-## SecondThought
+## SecondThought (Updates)
 We're creating a simple app to allow iOS &amp; Android users that allows the starting and stopping of audio recording while famous quotes loop in the background.
 
-Updates needed:
 |Update needed|Notes|Online resource if available|
 |-|-|-|
 |User, during onboarding, must choose be able to choose language & gender of voice playback.|Like a playlist||

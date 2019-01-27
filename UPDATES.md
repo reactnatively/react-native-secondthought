@@ -18,5 +18,5 @@ We're creating a simple app to allow iOS &amp; Android users that allows the sta
 |User must be able to open app using Siri or Google.|"Hey Siri, open SecondThought" or "Hey Google, open SecondThought"||
 |User device must be able to record 10 minutes without be interrupted by sleep.|||
 |User current location must be added to the POST||https://github.com/reactnatively/react-native-uhcounter|
-|User must hear "Testing 1, 2, 3" through their device speaker when they begin recording||https://docs.expo.io/versions/latest/sdk/audio/|
+|User must hear "Testing 1, 2, 3" through their device speaker when they begin recording|Audio should play through speaker and not earpiece for both Android and iOS|https://s3.us-east-2.amazonaws.com/reactnatively/testing-1-2-3.mp3|
 |User must be able to record audio at the same time as hearing the "Testing 1, 2, 3" prompt|Hopefully, you can record audio while an audio file is playing.|https://docs.expo.io/versions/latest/sdk/audio/|

@@ -13,7 +13,7 @@ We're creating a simple app to allow iOS &amp; Android users that allows the sta
 |User must have smooth navigation between audio recording, audio choosing & audio listening.|Use standard headerLeft & headerRight navigation.||https://reactnativecode.com/finish-current-activity-route-screen/|
 |User must be able to tell 2 friends about the app.|_/contacts_ endpoint added the Postman collection|https://www.getpostman.com/collections/dbf3d8c70887998389ef|
 |User must be able to listen to their previous recordings as a playlist.|||
-|User must be 18 years old in order to use the app.|additional -ofAge- boolean flag sent if "18 years or older text" checked during registration||
+|User must be 18 years old in order to use the app.|additional _ofAge_ boolean flag sent if "18 years or older text" checked during registration||
 |User must be informed their device is recording using an added header bar similar to when Apple Voice Memos is used.|||
 |User must be able to open app using Siri or Google.|"Hey Siri, open SecondThought" or "Hey Google, open SecondThought"||
 |User device must be able to record 10 minutes without be interrupted by sleep.|||
